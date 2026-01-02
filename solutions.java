@@ -289,7 +289,6 @@ public class AllCppToJavaConverted {
         }
     }
 
-    /* ===================== MAIN ===================== */
     public static void main(String[] args) {
         penaltyCount();
         minPenaltyIndex();
